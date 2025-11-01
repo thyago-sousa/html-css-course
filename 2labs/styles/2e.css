@@ -9,9 +9,9 @@
     border-radius: 20px;
     cursor: pointer;
     margin-right: 8px;
-  }
+}
 
-  .save-button {
+.save-button {
     background-color: white;
     color: rgb(10, 102, 194);
     border-width: 1px;
@@ -23,4 +23,4 @@
     font-size: 15px;
     border-radius: 20px;
     cursor: pointer;
-  }
+}

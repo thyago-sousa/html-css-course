@@ -8,9 +8,9 @@
     border-radius: 4px;
     cursor: pointer;
     margin-right: 6px;
-  }
+}
 
-  .download-button {
+.download-button {
     background-color: white;
     color: rgb(108, 117, 125);
     border-width: 1px;
@@ -21,4 +21,4 @@
     font-weight: bold;
     border-radius: 4px;
     cursor: pointer;
-  }
+}
