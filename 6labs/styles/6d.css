@@ -1,0 +1,20 @@
+p, span {
+  font-family: Montserrat;
+  margin: 0;
+  text-align: center;
+}
+
+.title {
+  font-size: 50px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.text {
+  font-size: 23px;
+}
+
+.link {
+  text-decoration: underline;
+  cursor: pointer;
+}
