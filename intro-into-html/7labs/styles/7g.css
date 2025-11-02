@@ -1,20 +1,29 @@
-.tweet-button {
-  background-color: rgb(29, 155, 240);
-  border-color: rgb(29, 155, 240);
-  color: white;
-  border: none;
-  padding: 7px 16px;
-  border-radius: 50px;
-  font-weight: bold;
-  font-size: 15px;
-  cursor: pointer;
-  margin-left: 12px;
-  font-size: 15px;
-  line-height: 22.5px;
-  transition: box-shadow 0.15s;
+.snoopy {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+  vertical-align: middle;
+  margin-right: 5px;
 }
 
-.snoopy {
-  width: 90px;
-  border-radius: 45px;
+.text-box {
+  font-size: 18px;
+  border: none;
+  width: 300px;
+  vertical-align: middle;
+}
+
+.tweet-button {
+  background-color: rgb(29, 155, 240);
+  color: white;
+  border: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 30px;
+  font-size: 16px;
+  font-weight: bold;
+  vertical-align: middle;
 }
