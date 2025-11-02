@@ -1,0 +1,20 @@
+.tweet-button {
+  background-color: rgb(29, 155, 240);
+  border-color: rgb(29, 155, 240);
+  color: white;
+  border: none;
+  padding: 7px 16px;
+  border-radius: 50px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  margin-left: 12px;
+  font-size: 15px;
+  line-height: 22.5px;
+  transition: box-shadow 0.15s;
+}
+
+.snoopy {
+  width: 90px;
+  border-radius: 45px;
+}
