@@ -1,0 +1,39 @@
+p, .pickup , .destination,
+.uber-button, .schedule-button {
+  font-family: Roboto;
+  margin: 0px;
+}
+
+
+p {
+  font-size: 30px;
+  font-family: Roboto;
+  margin-bottom: 30px;
+}
+
+.pickup,.destination {
+  padding: 12px 15px;
+  width: 280px;
+  border: none;
+  background-color: rgb(230, 230, 230);
+  display: block;
+  margin-bottom: 8px;
+}
+
+.uber-button {
+  margin-top: 25px;
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  cursor: pointer;
+  margin-right: 14px;
+}
+
+.schedule-button {
+  color: black;
+  background-color: rgb(230, 230, 230);
+  border: none;
+  padding: 10px 16px;
+  cursor: pointer;
+}
