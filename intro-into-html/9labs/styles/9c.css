@@ -1,0 +1,34 @@
+p, button {
+  margin: 0px;
+  font-family: Roboto;
+}
+
+.rectangle {
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(177, 177, 177);
+  width: 450px;
+}
+
+.text {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  font-size: 20px;
+}
+
+.yes {
+  font-size: 20px;
+  margin-left: 20px;
+  padding: 3px 10px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.no {
+  font-size: 20px;
+  margin-left: 3px;
+  padding: 3px 10px;
+  margin-bottom: 25px;
+  cursor: pointer;
+}

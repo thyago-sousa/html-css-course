@@ -1,0 +1,26 @@
+p {
+  font-family: Roboto;
+  margin: 0px;
+}
+
+.youtube {
+  background-color: rgb(49, 45, 45);
+  width: 380px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.text {
+  font-size: 15px;
+  width: 360px;
+  color: rgb(136, 135, 135);
+}
