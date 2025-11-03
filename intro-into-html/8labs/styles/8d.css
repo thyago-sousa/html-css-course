@@ -1,0 +1,39 @@
+.name {
+  padding: 8px 10px;
+  width: 100px;
+  border-radius: 6px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(135, 135, 135);
+}
+
+.last-name {
+  padding: 8px 10px;
+  width: 100px;
+  border-radius: 6px;
+  border-style: solid;
+  border-width: 1px;
+  margin-bottom: 10px;
+  border-color: rgb(135, 135, 135);
+}
+.email {
+  display: block;
+  padding: 8px 10px;
+  width: 225px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(135, 135, 135);
+}
+
+
+button {
+  color: white;
+  background-color: rgb(27, 107, 255);
+  border: none;
+  padding: 12px 10px;
+  width: 248px;
+  border-radius: 6px;
+  font-weight: bold;
+}
