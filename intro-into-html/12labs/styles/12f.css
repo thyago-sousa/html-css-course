@@ -1,0 +1,38 @@
+.header {
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: rgb(159, 96, 211);
+  align-items: center;
+  height: 50px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.home {
+  color: white;
+  font-weight: bold;
+}
+
+.button {
+  border-style: solid;
+  border-width: 1px;
+  color: white;
+  border-color: white;
+  background-color: rgb(159, 96, 211);
+  padding: 6px 15px;
+  font-size: 15px;
+  font-weight: 500;
+  border-radius: 2px;
+}
+
+.search {
+  width: 500px;
+  border: none;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  height: 30px;
+  border-radius: 15px;
+  padding-left: 20px;
+}

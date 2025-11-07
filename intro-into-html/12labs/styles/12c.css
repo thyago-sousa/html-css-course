@@ -1,0 +1,25 @@
+.flexbox {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.item1 {
+  background-color: lightpink;
+  width: 100px;
+}
+
+.item2 {
+  background-color: lightpink;
+  width: 100px;
+}
+
+.item3 {
+  background-color: lightpink;
+  width: 100px;
+}
+
+.item4 {
+  background-color: lightpink;
+  width: 100px;
+}

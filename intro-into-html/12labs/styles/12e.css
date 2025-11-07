@@ -1,0 +1,28 @@
+.container {
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(189, 189, 189);
+  border-radius: 5px;
+  width: 300px;
+  font-family: Roboto;
+}
+
+.flexbox {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.number {
+  background-color: rgb(71, 116, 240);
+  color: white;
+  padding: 3px 10px;
+  border-radius: 12px;
+  font-weight: bold;
+  font-size: 14px;
+}
